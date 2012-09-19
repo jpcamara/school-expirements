@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfigManager>
+    <Project name="propertyprovider">
+        <ResourceTypes>
+            <Type extension="properties" type="Properties"/>
+            <Type extension="xml,mdf" type="DOM"/>
+            <Type extension="json" type="JSON"/>
+        </ResourceTypes>
+        <Structure>
+            <Path>/</Path>
+            <Path>/main</Path>
+            <Path>/resources</Path>
+        </Structure>
+    </Project>
+</ConfigManager>

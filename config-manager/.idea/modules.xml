@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-management-webapp/config-management-webapp.iml" filepath="$PROJECT_DIR$/config-management-webapp/config-management-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configmanager.iml" filepath="$PROJECT_DIR$/configmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsonprovider/jsonprovider.iml" filepath="$PROJECT_DIR$/jsonprovider/jsonprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manager/manager.iml" filepath="$PROJECT_DIR$/manager/manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usecase-app/usecase-app.iml" filepath="$PROJECT_DIR$/usecase-app/usecase-app.iml" />
+    </modules>
+  </component>
+</project>
+

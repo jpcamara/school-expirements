@@ -1,0 +1,7 @@
+connectionUrl=jdbc:derby:memory:testdb
+driver=org.apache.derby.jdbc.EmbeddedDriver
+user=Sample
+pass=Password
+sql=select myKey, value from sample
+key=myKey
+value=value
