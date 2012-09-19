@@ -1,0 +1,17 @@
+package com.jpcamara.fbplusplus.c2.model;
+
+public enum Data {
+	BUDDY_LIST,
+	JOBS,
+	MEMBERS,
+	USER,
+	NOTIFICATIONS,
+	REQUEST,
+	RESPONSE,
+	REQUEST_DATA,
+	USER_IDS,
+	CHATROOMS,
+	USERS,
+	RECEIVED_CHAT,
+	CHATROOM
+}

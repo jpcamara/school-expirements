@@ -1,0 +1,17 @@
+for (;;);{"error":0,"errorSummary":"","errorDescription":"","errorIsWarning":false,"silentError":0,"payload":{"time":1271039151000,"buddy_list":{"listChanged":true,"availableCount":8,"nowAvailableList":{"100000977855031":{"i":false}},"wasAvailableIDs":[],"userInfos":{"100000977855031":{"name":"John Camara","firstName":"John","thumbSrc":"http:\/\/static.ak.fbcdn.net\/pics\/q_silhouette.gif"},"52800671":{"name":"Justin Port","firstName":"Justin","thumbSrc":"http:\/\/profile.ak.fbcdn.net\/hprofile-ak-sf2p\/hs252.snc3\/23096_52800671_992_q.jpg"}},"forcedRender":null,"flMode":false,"flData":{"9778510735":{"n":"Limited Profile","o":1,"c":2,"h":1},"-1":{"n":"Other Friends","h":0,"o":1}},"userToFlMap":null}}}
+
+for (;;);{"error":0,"errorSummary":"","errorDescription":"","errorIsWarning":false,"silentError":0,"payload":{"time":1271039692000,"buddy_list":{"listChanged":true,"availableCount":8,"nowAvailableList":{},"wasAvailableIDs":[],"userInfos":{},"forcedRender":null,"flMode":false,"flData":{"9778510735":{"n":"Limited Profile","o":1,"c":2,"h":1},"-1":{"n":"Other Friends","h":0,"o":1}},"userToFlMap":null}}}
+
+
+
+INFO: responseStr: for (;;);{"error":0,"errorSummary":"","errorDescription":"","errorIsWarning":false,"silentError":0,"payload":{"time":1271213742000,
+"buddy_list":{"listChanged":true,"availableCount":9,
+"nowAvailableList":{"14312466":{"i":false},"49409273":{"i":false},"603612880":{"i":false},"685011055":{"i":false},"1032297602":{"i":false},"1488360127":{"i":false},"685281318":{"i":true},"1125634882":{"i":true},"1245270055":{"i":true}},
+"wasAvailableIDs":[],
+"userInfos":
+{"14312466":{"name":"Ankawha Blain","firstName":"Ankawha","thumbSrc":"http:\/\/profile.ak.fbcdn.net\/v22939\/340\/35\/q14312466_6283.jpg"},
+"49409273":{"name":"David Keating","firstName":"David","thumbSrc":"http:\/\/profile.ak.fbcdn.net\/hprofile-ak-sf2p\/hs624.snc3\/27410_49409273_9174_q.jpg"},
+"603612880":{"name":"Kathleen Mackie","firstName":"kathleen","thumbSrc":"http:\/\/profile.ak.fbcdn.net\/hprofile-ak-sf2p\/hs629.snc3\/27477_603612880_2455_q.jpg"},
+
+
+"685011055":{"name":"Al Konczal","firstName":"Al","thumbSrc":"http:\/\/profile.ak.fbcdn.net\/hprofile-ak-sf2p\/hs624.snc3\/27412_685011055_2888_q.jpg"},"1032297602":{"name":"Jamie Rianna","firstName":"Jamie","thumbSrc":"http:\/\/profile.ak.fbcdn.net\/hprofile-ak-sf2p\/hs627.ash1\/27459_1032297602_9843_q.jpg"},"1488360127":{"name":"Lizzie Tipple","firstName":"Lizzie","thumbSrc":"http:\/\/profile.ak.fbcdn.net\/hprofile-ak-sf2p\/hs625.ash1\/27424_1488360127_4946_q.jpg"},"685281318":{"name":"Susan Camara","firstName":"Susan","thumbSrc":"http:\/\/profile.ak.fbcdn.net\/v229\/1931\/36\/q685281318_8151.jpg"},"1125634882":{"name":"Jerrelle Upchurch","firstName":"jerrelle","thumbSrc":"http:\/\/profile.ak.fbcdn.net\/hprofile-ak-sf2p\/hs308.ash1\/23207_1125634882_7258_q.jpg"},"1245270055":{"name":"Bryan Gibb","firstName":"Bryan","thumbSrc":"http:\/\/profile.ak.fbcdn.net\/hprofile-ak-sf2p\/hs625.snc3\/27432_1245270055_6336_q.jpg"}},"forcedRender":true,"flMode":false,"flData":{"9778510735":{"n":"Limited Profile","o":1,"c":2,"h":1},"-1":{"n":"Other Friends","h":0,"o":1}},"userToFlMap":null}}}
