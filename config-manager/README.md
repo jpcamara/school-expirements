@@ -1,0 +1,1 @@
+Toy project, used for a class and as a spike into how one might implement a configuration framework in modular way - with a goal of being file system independent. Not recommended for use!
